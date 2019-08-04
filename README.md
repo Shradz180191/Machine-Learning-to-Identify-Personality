@@ -21,14 +21,19 @@ From scientific or psychological perspective it is based on the work done on cog
 Recently, its use/validity has come into question because of unreliability in experiments surrounding it, among other reasons. But it is still clung to as being a very useful tool in a lot of areas, and the purpose of this dataset is to help see if any patterns can be detected in specific types and their style of writing, which overall explores the validity of the test in analysing, predicting or categorising behaviour.
 
 Content
+
 This dataset contains over 8600 rows of data, on each row is a person’s:
 
 Type (This persons 4 letter MBTI code/type)
+
 A section of each of the last 50 things they have posted (Each entry separated by "|||" (3 pipe characters))
+
 Acknowledgements
+
 This data was collected through the PersonalityCafe forum, as it provides a large selection of people and their MBTI personality type, as well as what they have written.
 
 Inspiration
+
 Some basic uses could include:
 
 Use machine learning to evaluate the MBTIs validity and ability to predict language styles and behaviour online.
