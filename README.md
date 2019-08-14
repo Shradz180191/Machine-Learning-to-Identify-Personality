@@ -2,6 +2,8 @@
 
 Reference: https://www.kaggle.com/datasnaek/mbti-type
 
+The Myers–Briggs Type Indicator (MBTI) is a kind of psychological classification about humans experience using four principal psychological functions, sensation, intuition, feeling, and thinking, constructed by Katharine Cook Briggs and her daughter Isabel Briggs Myers.
+
 The Myers Briggs Type Indicator (or MBTI for short) is a personality type system that divides everyone into 16 distinct personality types across 4 axis:
 
 Introversion (I) – Extroversion (E)
